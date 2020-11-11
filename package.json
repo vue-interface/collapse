@@ -2,7 +2,7 @@
   "name": "@vue-interface/collapse",
   "version": "0.9.1",
   "description": "A Vue collapse mixin.",
-  "main": "index.js",
+  "main": "dist/Collapse.umd.js",
   "scripts": {
     "watch": "npm run serve",
     "serve": "vue-cli-service build --target lib --name=Collapse ./index.js --watch",
