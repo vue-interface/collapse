@@ -1,6 +1,6 @@
 {
   "name": "@vue-interface/collapse",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "description": "A Vue collapse mixin.",
   "main": "index.js",
   "unpkg": "dist/Collapse.umd.min.js",
