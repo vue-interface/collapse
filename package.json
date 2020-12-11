@@ -4,7 +4,6 @@
   "description": "A Vue collapse mixin.",
   "main": "index.js",
   "unpkg": "dist/Collapse.umd.min.js",
-  "browser": "dist/Collapse.umd.min.js",
   "scripts": {
     "watch": "npm run serve",
     "serve": "vue-cli-service build --target lib --name=Collapse ./index.js --watch",
